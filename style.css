@@ -1,0 +1,62 @@
+/* style sheet */
+
+/* enable hand cursor */
+A { cursor : hand ; }   
+
+/* font definition */
+textfont {font-size: 12pt; color: black; font-family: "arial";}
+
+/* Author */
+aa {text-decoration: underline; font-weight: bold}
+
+/* section name font */
+S0 {font-size: 18pt; color: black; font-family: "arial"; font-weight: bold}
+S1 {font-size: 14pt; color: black; font-family: "arial"; font-weight: bold}
+S2 {font-size: 14pt; color: black; font-family: "arial";}
+
+/* link font */
+L0 {font-size: 18pt; font-family: "arial";}
+L1 {font-size: 18pt; font-family: "arial"; font-weight: bold}
+
+/* link setting */
+a:link    {color:blue; text-decoration: none}
+a:visited {color:"#9966FF"; text-decoration: none}
+a:hover   {color:cyan;text-decoration: none}
+
+/* background image */
+
+body { 
+  /* background-image: url("stars.jpg"); */
+  background-color: lavender; 
+}
+
+/* table setting */
+table.text {
+  background-color: lavender;
+  margin: auto;
+  width: 1200; 
+}
+
+table.contents {
+  background-color: white;
+  margin: auto;
+  width: 1200; 
+}
+
+table.link {
+  background-color: white;
+  margin: auto;
+  width: 500; 
+}
+
+table.title {
+  background-color: white;
+  margin: auto;
+  width: 200; 
+}
+
+td {
+  padding: 15;
+}
+
+

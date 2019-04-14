@@ -1,0 +1,81 @@
+----
+
+2011-07-24, Toshiya Namikawa
+
+''Title'': ''COLOR(#FF0000){Simultaneous falsification of LCDM and quintessence with massive, distant clusters}''
+
+''Ref'': [[Mortonson, M. J.; Hu, W.; Huterer, D. (2011) :http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:0810.1744]]
+
+----
+
+2011-06-23, Masaaki Watanabe
+
+''Title'': ''COLOR(#FF0000){Anisotropic Pressures at Ultra-stiff Singularities and the Stability of Cyclic Universes}''
+
+''Ref'': [[Barrow, J. D., Yamamoto, K. (2010) :http://arxiv.org/abs/1004.4767]]
+
+----
+
+2011-05-29, Tomohiro Okamura
+
+''Title'': ''COLOR(#FF0000){Intermediate results of the WiggleZ Dark Energy Survey: Baryon Acoustic Oscillation at z=0.6, and Redshift Distortion at z=0.9}''
+
+''Ref1'': [[Blake, C., et al (2011) :http://adsabs.harvard.edu/abs/2011arXiv1104.2948B]]
+
+''Ref2'': [[Blake, C., et al (2011) :http://adsabs.harvard.edu/abs/2011arXiv1105.2862B]]
+
+''Ref3'': [[Blake, C., et al (2010) :http://adsabs.harvard.edu/abs/2010MNRAS.406..803B]]
+
+----
+
+2011-05-17, Toshiya Namikawa
+
+''Title'': ''COLOR(#FF0000){Reconstruction of cosmic magnification from galaxy number counts / Measurement of CMB Lensing Power Spectrum from ACT Temperature Map and Cosmological Implications}''
+
+''Ref1'': [[Yang, X., Zhang, P. (2011) :http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1105.2385]]
+
+''Ref2'': [[Das, S., et al (2010) :http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1009.0847]]
+
+''Ref3'': [[Das, S., et al (2011) :http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1103.2124]]
+
+''Ref4'': [[Sherwin, B., et al (2011) :http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1105.0419]]
+
+''Note'': [[PDF:http://www-utap.phys.s.u-tokyo.ac.jp/~namikawa/others/cosmo/Ref/11May17.pdf]]
+
+----
+
+2011-02-27, Gen Nakamura
+
+''Title'': ''COLOR(#FF0000){Entangling Power of an Expanding Universe}''
+
+''Ref1'': [[Greg Ver Steeg, Nicolas C. Menicucci (2007) :http://jp.arxiv.org/abs/0711.3066]]
+
+''Ref2'': [[Reznik, R., Retzker, A., Silman, J. (2003) :http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:quant-ph/0310058]]
+
+
+----
+
+2011-02-06, Masaaki Watanabe
+
+''Title'': ''COLOR(#FF0000){Evolution of Magnetic Fields in Freely Decaying Magnetohydrodynamic Turbulence}''
+
+''Ref'': [[Campanelli, L. (2007) :http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:0705.2308]]
+
+----
+
+2011-02-06, Toshiya Namikawa
+
+''Title'': ''COLOR(#FF0000){Recent Observational Constraints on Variation of Proton-to-Electron Mass Ratio}''
+
+''Ref1'': [[Kanekar, N. (2011) :http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1101.4029]]
+
+''Ref2'': [[Ubachs, W.; Bagdonaite, J.; Murphy, M. T.; Buning, R.; Kaper, L. (2011) :http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1101.5150]]
+
+
+----
+
+2011-01-01, Tomohiro Okamura
+
+''Title'': ''COLOR(#FF0000){Is modified gravity required by observations? An empirical consistency test of dark energy models}''
+
+''Ref'': [[Wang, S.; Hui, L.; May, M.; Haiman, Z.  (2007) :http://ads.nao.ac.jp/abs/2007PhRvD..76f3503W]]

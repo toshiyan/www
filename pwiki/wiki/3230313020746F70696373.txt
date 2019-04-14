@@ -1,0 +1,267 @@
+----
+
+2010-12-27, Toshiya Namikawa
+
+''Title'': ''COLOR(#FF0000){Ultrahigh precision cosmology from gravitational waves}''
+
+''Ref'': [[Cutler, C.; Holz, D. E. (2009) :http://ads.nao.ac.jp/abs/2009PhRvD..80j4009C]]
+
+----
+
+2010-12-19, Gen Nakamura
+
+''Title'': ''COLOR(#FF0000){Hanbury Brown-Twiss interferometry and second-order correlations of inflaton quanta}''
+
+''Ref'': [[Giovannini, M. (2010) :http://arxiv.org/abs/1011.1673]]
+
+----
+
+2010-12-12, Masaaki Watanabe
+
+''Title'': ''COLOR(#FF0000){Generation of circular polarization of the CMB}''
+
+''Ref1'': [[E. Bavarsad, M. Haghighat, Z. Rezaei, R. Mohammadi, I. Motie, M. Zarei  (2009) :http://arxiv.org/abs/0912.2993]]
+
+''Ref2'': [[Giovannini, M. (2009) :http://arxiv.org/abs/0909.4699]]
+
+----
+
+2010-12-12,  Toshiya Namikawa
+
+''Title'': ''COLOR(#FF0000){Scale-dependent bias from primordial non-Gaussianity in general relativity}''
+
+''Ref'': [[Wands, D.; Slosar, A. (2009) :http://ads.nao.ac.jp/abs/2009PhRvD..79l3507W]]
+
+----
+
+2010-11-14, Tomohiro Okamura
+
+''Title'': ''COLOR(#FF0000){Lognormal cosmological perturbation theory : Cosmological perturbation theory using the schrodinger equation}''
+
+''Ref1'': [[Szapudi, I.; Kaiser, N. (2003) :http://ads.nao.ac.jp/abs/2003ApJ...583L...1Sh]]
+
+''Ref2'': [[Neyrinck, M. C.; Szapudi, I.; Szalay, A., S. (2009) :http://ads.nao.ac.jp/abs/2009ApJ...698L..90N]]
+
+''Ref3'': [[Neyrinck, M. C.; Szapudi, I.; Szalay, A., S. (2010) :http://ads.nao.ac.jp/abs/2010arXiv1009.5680N]]
+
+''Ref4'': [[Seo, H. J.; Sato, M.; Dodelson, S.; Jain, B.; Takada, M. (2010) :http://ads.nao.ac.jp/abs/2010arXiv1008.0349Sh]]
+
+----
+
+2010-11-07, Toshiya Namikawa
+
+''Title'': ''COLOR(#FF0000){Measuring spatial variation of the electron-to-proton mass ratio with the inversion spectrum of ammonia}''
+
+''Ref1'': [[Flambaum, V. V.; Kozlov, M. G. (2007) :http://ads.nao.ac.jp/abs/2007PhRvL..98x0801F]]
+
+''Ref2'': [[Molaro, P.; Levshakov, S. A.; Kozlov, M. G. (2009) :http://ads.nao.ac.jp/abs/2009NuPhS.194..287M]]
+
+----
+
+2010-10-31, Gen Nakamura
+
+''Title'': ''COLOR(#FF0000){Modelling redshift space distortions in hierarchical cosmologies}''
+
+''Ref'': [[Elise Jennings, Carlton M. Baugh, Silvia Pascoli (2010) :http://arxiv.org/abs/1003.4282]]
+
+----
+
+2010-10-17, Masaaki Watanabe
+
+''Title'': ''COLOR(#FF0000){Helical Magnetic Fields from Inflation}''
+
+''Ref'': [[Leonardo Campanelli (2008) :http://arxiv.org/abs/0805.0575]]
+
+----
+
+2010-10-04, Tomohiro Okamura
+
+''Title'': ''COLOR(#FF0000){Confirmation of general relativity on large scales from weak lensing and galaxy velocities}''
+
+''Ref'': [[R. Rayes et al. (2010) :http://adsabs.harvard.edu/abs/2010Natur.464..256R]]~
+Please also see supplementary information at Nature Home Page.
+
+----
+
+2010-09-18, Toshiya Namikawa
+
+''Title'': ''COLOR(#FF0000){Improving CMB non-Gaussianity estimators using tracers of local structure}''
+
+''Ref'': [[Mead, James M. G.; Lewis, Antony; King, Lindsay J.:http://ads.nao.ac.jp/abs/2010arXiv1009.1549M]]
+
+----
+
+2010-09-06, Gen Nakamura
+
+''Title'': ''COLOR(#FF0000){The most massive objects in the Universe}''
+
+''Ref1'': [[Holz, D.E.; Perlmutter, S. (2010) :http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1004.5349]]
+
+''Ref2'': [[Cayon, L.; Gordon, C.; Silk, J. (2010) :http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1006.1950]]
+
+----
+
+2010-08-17, Masaaki Watanabe
+
+''Title'': ''COLOR(#FF0000){Constraining Primordial Magnetism}''
+
+''Ref'': [[J. R. Shaw, A. Lewis (2010) :http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1006.4242]]
+
+----
+
+2010-07-24, Toshiya Namikawa
+
+''Title'': ''COLOR(#FF0000){Probing vector-type metric-perturbation by reconstructing CMB-deflection field}''
+
+''Ref1'': [[Cooray, A; Kamionkowski, M; Caldwell, R. R. (2005) :http://ads.nao.ac.jp/abs/2005PhRvD..71l3527C]]
+
+''Ref2'': [[Yadav, A. P. S.; Su, M.; Zaldarriaga, M. (2010) :http://ads.nao.ac.jp/abs/2010PhRvD..81f3512Y]]
+
+----
+
+2010-07-03, Toshiya Namikawa
+
+''Title'': ''COLOR(#FF0000){Investigating neutrino properties from galaxy-galaxy lensing}''
+
+''Ref'': [[Limousin, M.; Kneib, J- P.; Natarajan, P. (2005) :http://ads.nao.ac.jp/abs/2005MNRAS.356..309L]]
+
+----
+
+2010-06-19, Tomohiro Okamura
+
+''Title'': ''COLOR(#FF0000){The magnification bias on the galaxy-galaxy correlation}''
+
+''Ref1'': [[Loverde, M.; Hui, L.; Gaztanaga, E. (2007) :http://ads.nao.ac.jp/abs/2007PhRvD..75d3519L]]
+
+''Ref2'': [[Hui, L.; Gaztanaga, E.; Loverde, M. (2007) :http://ads.nao.ac.jp/abs/2007PhRvD..76j3502H]]
+
+''Ref3'': [[Hui, L.; Gaztanaga, E.; Loverde, M. (2008) :http://ads.nao.ac.jp/abs/2008PhRvD..77f3526H]]
+
+----
+
+2010-06-06, Masaaki Watanabe
+
+''Title'': ''COLOR(#FF0000){String Axiverse}''
+
+''Ref'': [[Asimina Arvanitaki et at. (2009):http://arxiv.org/abs/0905.4720]]
+
+----
+
+2010-05-30, Toshiya Namikawa
+
+''Title'': ''COLOR(#FF0000){The "universality" of mass function in wCDM / massive neutrino cosmology}''
+
+''Ref1'': [[Bhattacharya et al. (2010) :http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1005.2239]]
+
+''Ref2'': [[Brandbyge, J.; Hannestad, S.; Haugboelle, T.; Wong, Y. Y. Y. (2010) :http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1004.4105]]
+
+''Note'': [[PDF:http://www-utap.phys.s.u-tokyo.ac.jp/~namikawa/seminar/cosmo/Ref/10May30.pdf]]
+
+----
+
+2010-05-23, Tomohiro Okamura
+
+''Title'': ''COLOR(#FF0000){Direct measurement of dark matter halo ellipticity from two-dimensional lensing shear maps of 25 massive clusters}''
+
+''Ref'': [[Oguri, M.; Takada, M.; Okabe, N.; Smith, G. P. (2010) :http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1004.4214]]
+
+----
+
+2010-05-15, Masaaki Watanabe
+
+''Title'': ''COLOR(#FF0000){Cosmic microwave background constraints on cosmological models with large-scale isotropy breaking}''
+
+''Ref'': [[Haoxuan Zheng, Emory F. Bunn (2010) :http://arxiv.org/abs/1003.5548]]
+
+----
+
+2010-05-15, Toshiya Namikawa
+
+''Title'': ''COLOR(#FF0000){The origin of the WMAP quadrupole}''
+
+''Ref1'': [[Cruz, M.; Vielva, P.; Martinez-Gonzalez, E.; Barreiro, R. B. (2010) :http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1005.1264]]
+
+''Ref2'': [[Roukema, Boudewijn F. (2010) :http://ads.nao.ac.jp/abs/2010arXiv1004.4506R]]
+
+
+----
+
+2010-05-08, Toshiya Namikawa
+
+''Title'': ''COLOR(#FF0000){A numerical study of the effects of primordial non-Gaussianities on weak lensing statistics}''
+
+''Ref'': [[Pace, F.; Moscardini, L.; Bartelmann, M.; Branchini, E.; Dolag, K.; Grossi, M.; Matarrese, S. (2010) :http://ads.nao.ac.jp/abs/2010arXiv1005.0242P]]
+
+----
+
+2010-04-25, Tomohiro Okamura
+
+''Title'': ''COLOR(#FF0000){Evidence for the accelerated expansion of the Universe from weak lensing tomography with COSMOS}''
+
+''Ref'': [[Schrabback, T. et al. (2009)  :http://ads.nao.ac.jp/abs/2009arXiv0911.0053]]
+
+----
+
+2010-04-07, Toshiya Namikawa
+
+''Title'': ''COLOR(#FF0000){Constraints on modified gravity with 21cm intensity mapping}''
+
+''Ref'': [[Masui, K. W.; Schmidt, F.; Pen, U.; McDonald, P. (2010) :http://ads.nao.ac.jp/abs/2010PhRvD..81f2001M]]
+
+''Note'': [[PDF:http://www-utap.phys.s.u-tokyo.ac.jp/~namikawa/seminar/cosmo/Ref/10Apr07.pdf]]
+
+----
+
+2010-04-04, Masaaki Watanabe
+
+''Title'': ''COLOR(#FF0000){Use of delta N formalism}''
+
+''Ref'': [[Tanaka, T.; Suyama, T.; Yokoyama, S. (2010) :http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1003.5057]]
+
+----
+
+2010-03-28, Toshiya Namikawa
+
+''Title'': ''COLOR(#FF0000){Extraction of BAO signatures from 21cm Intensity Mapping}''
+
+''Ref'': [[Chang, T.; Pen, U.; Peterson, J. B.; McDonald, P. (2008) :http://ads.nao.ac.jp/abs/2008PhRvL.100i1303C]]
+
+----
+
+2010-02-13, Tomohiro Okamura
+
+''Title'': ''COLOR(#FF0000){Effect of Hot Baryons on the Weak-Lensing Shear Power Spectrum}''
+
+''Ref'': [[Zhan, H.; Knox, L. (2004) :http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:astro-ph/0409198]]
+
+''Note'': [[PDF:http://www.astr.tohoku.ac.jp/~t-okamura/HotBaryon.pdf]]
+
+----
+
+2010-02-07, Toshiya Namikawa
+
+''Title'': ''COLOR(#FF0000){7yr WMAP Results : Cosmological Interpretation}''
+
+''Ref'': [[Komatsu, E. et al. (2010) :http://lambda.gsfc.nasa.gov/product/map/dr4/map_bibliography.cfm]]
+
+''Note'': [[PDF:http://www-utap.phys.s.u-tokyo.ac.jp/~namikawa/seminar/cosmo/Ref/10Feb07.pdf]]
+
+----
+
+2010-01-30, Masaaki Watanabe
+
+''Title'', ''COLOR(#FF0000){Master Thesis}''
+
+----
+
+2010-01-30, Tomohiro Okamura 
+
+''Title'': ''COLOR(#FF0000){Master Thesis}''
+
+----
+
+2010-01-04, Toshiya Namikawa
+
+''Title'': ''COLOR(#FF0000){Master Thesis}''
+
+----
