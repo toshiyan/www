@@ -37,6 +37,12 @@ table.text {
   width: 1200; 
 }
 
+table.schedule {
+  background-color: lavender;
+  margin: auto;
+  width: 1200;
+}
+
 table.contents {
   background-color: white;
   margin: auto;
